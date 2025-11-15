@@ -1,14 +1,16 @@
 # BuildAThon-Ferma
 
 
+Fermentation Monitoring & Yield Predictor
 
-Ferma: Fermentation Monitoring & Yield Predictor
 Dataset link we use to web scrapping the datas and convert to CSV: 
+
 Bulk data (OD600nm; substrate concentration; pH) recorded in the CDC biofilm reactors
+
 Ofiteru, Irina (2024). Bulk data (OD600nm; substrate concentration; pH) recorded in the CDC biofilm reactors. Newcastle University. Dataset. https://doi.org/10.25405/data.ncl.24851244.v1
 
 Problem Validation (20 pts):
- Biomanufacturing labs industry struggle with contamination, inconsistent pH, variable yields. Directly connected to national biomanufacturing priorities. Our sfotware platform helps evaluate qualities of all the bio samples so it can be ready for 
+Biomanufacturing labs industry struggle with contamination, inconsistent pH, variable yields. Directly connected to national biomanufacturing priorities. Our sfotware platform helps evaluate qualities of all the bio samples so it can be ready for 
 
  NSCEB_WP_Biomanufacturing
  (Stages I–IV: feedstock → outputs → end products).
