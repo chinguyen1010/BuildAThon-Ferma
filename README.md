@@ -149,12 +149,7 @@ ML model (this is the main ML part):
 Does full Feature engineering:
 
 
-ML Yield Prediction: Trains RandomForest regression
-
-
-                         Compute risk, harvest time,
-                        Generate recommendations
-
+ML Yield Prediction: Trains RandomForest regression:  Compute risk, harvest time, Generate recommendations
 
 Dashboard visualization:  Shows KPIs + Displays the Plotly dashboard inline
 
