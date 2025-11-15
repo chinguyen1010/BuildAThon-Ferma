@@ -171,7 +171,8 @@ Recommendations (this is where recommendations live)
 
 
 
-Additional bioprocess analysis
+
+Additional bioprocess analysis:
 
 mu, doubling_time, growth_phase, oxygen_limitation, substrate_empty, productivity, stability_index, time_peak_rate
 
