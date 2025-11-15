@@ -2,7 +2,8 @@
 Revolutionizing biotech
 
 
-Pls click Visit Site:
+Pls click Run Anlysis after load the csv:
 
 https://duckie-romeo-uncommitting.ngrok-free.dev/
 
+Demo Vid:
