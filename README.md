@@ -174,6 +174,27 @@ mu, doubling_time, growth_phase, oxygen_limitation, substrate_empty, productivit
 
 <img width="449" height="285" alt="Screenshot 2025-11-15 at 5 32 41 PM" src="https://github.com/user-attachments/assets/ff703701-360f-4704-9080-57538bcab527" />
 
+# Ferma — Bioreactor ML Dashboard
+
+A Streamlit-based dashboard for analyzing fermentation bioprocess runs,
+predicting final product concentration using machine learning, computing
+risk scores, and generating harvest recommendations.
+
+## 🚀 Live App
+(You will paste your Streamlit Cloud link here after deploying)
+
+## 📦 Features
+- Upload CSV or use sample bioreactor data
+- Random Forest ML prediction
+- Product, OD600, pH, Temp trends
+- Growth phase classification
+- Doubling time, µmax
+- Risk scoring
+- Harvest time recommendation
+- Full Plotly dashboard visualization
+
+
+
 
 
 
