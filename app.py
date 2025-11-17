@@ -1,4 +1,4 @@
-%%writefile app.py
+
 import tempfile
 from pathlib import Path
 
