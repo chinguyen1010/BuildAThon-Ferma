@@ -1,15 +1,10 @@
-# BuildAThon-Ferma
+# BuildAThon-Ferma ft. The Generator @ Babson College
 
-
-The Generator @ Babson College
-
-Pls click Run Anlysis after load the csv:
 
 https://duckie-romeo-uncommitting.ngrok-free.dev/
 
-Full Colab code that build the app integrate with ML model analysis:
+Full Colab code that build the website integrate with ML model analysis:
 
-https://colab.research.google.com/drive/18m0g4Z0sDxXLoi4UehkpBtDjQuSDzGYc?usp=sharing
 
 
 
