@@ -1,4 +1,4 @@
-# BuildAThon-Ferma ft. The Generator @ Babson College
+# Ferma ft. BuildAThon host by The Generator + Babson Biotech club
 
 
 
